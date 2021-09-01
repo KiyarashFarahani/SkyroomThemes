@@ -8,4 +8,4 @@ To apply my themes follow these steps:
   4. Open [This Website](https://userstyles.org/styles/browse?search_terms=Kiyarash%20Farahani&type=false) & You'll see my themes
   5. Choose one and open it, then click on Install Theme.
   6. Done :]
-# Contact me: [Telegram](t.me/KiyarashNF)
+# Contact me: [Telegram](https://www.telegram.me/KiyarashNF)
